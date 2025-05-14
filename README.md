@@ -42,5 +42,11 @@ Os testes abrangem operações **POST, GET, PUT e DELETE**, garantindo precisão
    npx jest
    ```  
 
+## 🎥 Vídeo do Teste Automatizado  
+
+Veja o teste rodando em tempo real neste vídeo:  
+[🔗 Assista aqui](https://1drv.ms/v/c/f9b6ddc2788df047/ERAZialImlxMi7V9Zp6C0SYBvfaibSUkht1muoxwH9uNlw?e=prL6iS)  
+
+
 ## 📖 Licença  
 Este projeto está sob a licença MIT. Sinta-se à vontade para explorar e contribuir!  
